@@ -1,0 +1,16 @@
+.logo{
+    height: 100px;
+    width: 200px;
+}
+#navbarNav{
+    font-weight: bolder;
+}
+#content{
+    float:left;
+}
+#side-menu{
+    float: left;
+}
+#bus_form{
+    float: left;
+}
